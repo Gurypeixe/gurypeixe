@@ -1,30 +1,113 @@
-<h1 align="center">Hi 👋, I'm Martim Peixe</h1>
-<h3 align="center">Programador Full Stack</h3>
+## Hi Martim Peixe here👋
+### Languages :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurypeixe" alt="gurypeixe" /></a> </p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg"" width="45" height="45" alt="Next.js" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+<!--      <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+    <br>HTML5
+  </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+     <br>CSS3
+  </td> -->
+<!--   <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="css" />
+    <br>PHP
+</td> -->
+</tr>
+</table>
 
-- 🔭 I’m currently working on [Neovox RP (FiveM Server)](https://neovoxrp.pt/)
+### Libraries/Frameworks :
 
-- 🌱 I’m currently learning **Tailwind CSS v4, advanced Go architecture, and network security**
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>NodeJS
+  </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+  </td>
+   <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+   </td>
+   <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="DiscordJS" />
+      <br>DiscordJS
+    </td>
+<!-- <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="Jquery" />
+      <br>Jquery
+</td>
+<td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+</td> -->
+<!-- <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="Babel" />
+      <br>Babel
+</td> -->
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [https://gurydevs.me/](https://gurydevs.me/)
+### DevOps tools / OS :
 
-- 💬 Ask me about **FiveM/RedM, C# (Windows Forms), Docker, MySQL, and Cloudflare Tunnels**
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+      <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="Webpack" />
+      <br>Webpack
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Prettier" />
+      <br>Prettier
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+<!--     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
+      <br>Android Studio
+    </td> -->
+  </tr>
+</table>
 
-- 📫 How to reach me **gurypeixe@gmail.com**
+### Version Control :
 
-- ⚡ Fun fact **I specialize in turning complex technical headaches into optimized server instances**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/px_martim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="px_martim" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurypeixe&show_icons=true&locale=en&layout=compact" alt="gurypeixe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurypeixe&show_icons=true&locale=en" alt="gurypeixe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurypeixe&" alt="gurypeixe" /></p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+<hr>
